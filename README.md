@@ -2,7 +2,7 @@
 
 A simple React Native counter application built with Expo that demonstrates basic state management and error handling.
 
-![Alt text](assets/images/PlusOneHomeScreen.png)
+<img src="assets/images/PlusOneHomeScreen.png" alt="Plus One Home Screen" width="200">
 
 ## Features
 
