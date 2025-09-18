@@ -2,8 +2,9 @@
 
 A simple React Native counter application built with Expo that demonstrates basic state management and error handling.
 
-<img src="assets/images/PlusOneHomeScreen.png" alt="Plus One Home Screen" width="200">
-
+<div align="center">
+   <img src="assets/images/PlusOneHomeScreen.png" alt="Plus One Home Screen" width="200">
+</div>
 ## Features
 
 - **Large Number Display**: Shows a prominently displayed counter value
